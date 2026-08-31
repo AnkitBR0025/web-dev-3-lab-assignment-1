@@ -6,7 +6,7 @@ logger("Application started.....");
 console.log("10 is even:", isEven(10));
 console.log("7 is even:", isEven(7));
 
-logger("Application finished.....");
+logger("Application finished....");
 
 
 // run :node app.js
